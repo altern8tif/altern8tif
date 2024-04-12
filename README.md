@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  TODO: Add Description + Projects here
  
- ### Stuff I use or are interested in:
+ ### Stuff I use or am interested in:
 
 <div class="flex">
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
